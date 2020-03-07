@@ -1,0 +1,1 @@
+select row_to_json(countries) from "fernandez_json_hr".countries;
